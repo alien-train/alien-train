@@ -1,4 +1,4 @@
-## Hi there 👋
+Current UC Berkeley Mechanical Engineering 3rd year. Specializing in Robotics Engineering.
 
 <!--
 **alien-train/alien-train** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
